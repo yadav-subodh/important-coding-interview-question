@@ -30,7 +30,7 @@ def question_first(array):
 
 
 # question_first([1, 2, 3, 4, 5, 6, 7, 8, 10])
-
+# solution for above coding question
 def question_second(array):
     """Given a sorted array A of size N, delete all the duplicates elements from A.
     Example 1:
